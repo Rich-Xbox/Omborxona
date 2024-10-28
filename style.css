@@ -1,0 +1,88 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .container{
+  max-width:1400px;
+  margin:0 auto;
+  }
+  .navbar{
+    background-color: white;
+    /* border: 2px solid black; */
+    width: Fixed (1,440px)px;
+height: Hug (97px)px;
+padding: 24px 0px 0px 0px;
+gap: 0px;
+opacity: 0px;
+
+  }
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.nnav{
+    display: flex;
+    justify-content:space-between;
+}
+a:hover{
+    color: red;
+}
+button{
+    color: red;
+    border: 2px solid red;
+    background-color: white;
+    padding: 5px 20px ;
+    font-size: 20px;
+}
+button:hover{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+
+}
+.rasm{
+    background-image: url("./image\ 4\ \(1\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 1440px;
+height: 533px;
+top: 98px;
+gap: 0px;
+opacity: 0px;
+
+display: flex;
+/* align-items: center; */
+justify-content: space-between;
+}
+h1{
+    width: 500px;
+height: 82.29px;
+top: 235.8px;
+left: 170px;
+gap: 0px;
+opacity: 0px;
+color: white;
+}
+.soz{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.buut{
+    color: white;
+    background-color: red;
+}
+.buut:hover{
+    color: red;
+    background-color: white;
+}
